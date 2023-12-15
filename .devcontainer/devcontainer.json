@@ -14,11 +14,28 @@
     "customizations": {
         "vscode": {
             "extensions": [
-				"prompt-flow.prompt-flow",
-				"GitHub.copilot-chat",
-				"GitHub.copilot",
-				"ms-azuretools.vscode-docker"
-			]
+		"prompt-flow.prompt-flow",
+		"GitHub.copilot-chat",
+		"GitHub.copilot",
+		"ms-azuretools.vscode-docker",
+		"ms-toolsai.vscode-ai",
+            	"ms-python.python",
+                "ms-toolsai.jupyter"
+		 	]
         }
+    }
+}
+
+"customizations": {
+    "vscode": {
+        "extensions": [
+            "prompt-flow.prompt-flow",
+            "GitHub.copilot-chat",
+            "GitHub.copilot",
+            "ms-azuretools.vscode-docker",
+            "ms-toolsai.vscode-ai",
+            "ms-python.python",
+            "ms-toolsai.jupyter"
+        ]
     }
 }
